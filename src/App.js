@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+
 import './App.css';
-import Home from './container/Home'
+import Icon from './container/Icon'
+import "bootstrap/dist/css/bootstrap.min.css"
 
 function App() {
   return (
-   <Home />
+   <Icon />
   );
 }
 
